@@ -1,0 +1,9 @@
+requests~=2.28.1
+tqdm~=4.64.1
+time
+requests
+pprint.pprint
+os
+json
+configparser
+tqdm.tqdm
